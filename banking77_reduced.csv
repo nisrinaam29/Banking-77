@@ -1,0 +1,481 @@
+text,category
+I am still waiting on my card?,card_arrival
+What can I do if my card still hasn't arrived after 2 weeks?,card_arrival
+I have been waiting over a week. Is the card still coming?,card_arrival
+Can I track my card while it is in the process of delivery?,card_arrival
+"How do I know if I will get my card, or if it is lost?",card_arrival
+When did you send me my new card?,card_arrival
+Do you have info about the card on delivery?,card_arrival
+What do I do if I still have not received my new card?,card_arrival
+Does the package with my card have tracking?,card_arrival
+I ordered my card but it still isn't here,card_arrival
+Why has my new card still not come?,card_arrival
+"I still haven't received my card after two weeks, is it lost?",card_arrival
+Can you track my card for me?,card_arrival
+Is there a way to track the delivery of my card?,card_arrival
+It's been a week since I ordered my card and it's not here. Please help?,card_arrival
+Will I be able to track the card that was sent to me?,card_arrival
+I don't have my card in 1 week.  Should I be worried?,card_arrival
+How do I know when my new card is going to arrive?,card_arrival
+My new card has not been delivered to my home yet. What is going on?,card_arrival
+It's been a week since you issued me a card and I still didn't get it. Should I keep waiting?,card_arrival
+"On the card that is coming, what's the tracking info?",card_arrival
+What is the status of my card's delivery?,card_arrival
+Have you sent out my card yet?,card_arrival
+My card isn't here yet.,card_arrival
+where is my new card?,card_arrival
+It's been a week since you sent my card and I still don't have it.,card_arrival
+How do I track the card you sent me?,card_arrival
+When will I recieve my new card?,card_arrival
+When will I get my new card?,card_arrival
+What is the expected delivery date for my card?,card_arrival
+Is there a tracking number for the card you sent me?,card_arrival
+I would like to track the card you sent to me.,card_arrival
+Has my card been lost in delivery?,card_arrival
+My new card hasn't came in.,card_arrival
+Where is the card I ordered 2 weeks ago?,card_arrival
+Can I get an update on my replacement card?,card_arrival
+How long does it take for a new card to ship?,card_arrival
+What's the tracking on the card you sent?,card_arrival
+I haven't received my card and am worried it is lost.,card_arrival
+My card still hasn't been delivered,card_arrival
+My card has been found. Is there any way for me to put it back into the app?,card_linking
+I was able to find my card. How to I go about putting it into my app?,card_linking
+how do I get my card to show in the app?,card_linking
+I just got my card.  It's not linked yet--how do I do that?,card_linking
+"lost card found, want to put it back in app",card_linking
+"I just got a card, how can I add it to the app?",card_linking
+Is there any way to see my card in the app?,card_linking
+If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it?,card_linking
+I found my card. How can I put it into my app?,card_linking
+How do I make my card show up in the app?,card_linking
+Can you show me where to link the new card?,card_linking
+I found my old card. Can I link it back into the app?,card_linking
+"Show me how to link the new card,",card_linking
+How do I add an existing card to the app?,card_linking
+I finally got my card.  Now I want to link it.  Is that something you have to do or can I do that?,card_linking
+How do I link one of your card that I already have?,card_linking
+If I have a physical card can I link it?,card_linking
+I found my lost card in my jacket pocket this morning so I'd like to reactivate it please.,card_linking
+Can I add a card that I just found (again) to the app?,card_linking
+How can I make my card show up in the app?,card_linking
+"I would like to re-activate my card, it was previously reported  lost but I found it this morning.",card_linking
+"Okay, I found my card, can I put it back in the app?",card_linking
+Can I reactivate a card?,card_linking
+I would like to reactivate a card and wondered if that could be done?,card_linking
+"I got my card now, how do I make it show up in the app?",card_linking
+How do I link an existing card?,card_linking
+How do I link a new card in the app?,card_linking
+"The card I thought was lost was just in my jacket, so can I reactivate it since I found it this morning?",card_linking
+I already have a card and want to link it,card_linking
+Can you please reactivate my card?,card_linking
+Where do I go to add a new card?,card_linking
+I want my card I just received to show up in the app. How do I do that?,card_linking
+"I received my card, how do I get it to show in the app?",card_linking
+If I have a credit card with you how I get set up to link to it?,card_linking
+How do I add my new card?,card_linking
+"I want to reactivate my card, I thought I had lost it but found it again this morning.",card_linking
+"I need a card reactivation, I had reported my card lost but I ran across it in my jacket.",card_linking
+My card is no longer lost. How do I enter it back into the app?,card_linking
+"I want to reactivate my card, I thought I had lost it but found it again in my jacket.",card_linking
+"May I reactivate my card? I previously reported it lost, but have now found it safe and sound.",card_linking
+I would like to know why a withdraw I made for some cash shows up as pending.,pending_cash_withdrawal
+Why is my cash withdrawal still showing as pending?,pending_cash_withdrawal
+"I have the cash already, my account still shows up as pending.  How can my account be still pending?",pending_cash_withdrawal
+I tried to get cash out of the ATM but it is taking too long,pending_cash_withdrawal
+Why is the cash withdrawal under pending?,pending_cash_withdrawal
+What does it mean if my cash withdrawal does not show up properly?,pending_cash_withdrawal
+"Hello, I have a pending transaction in my account due to an ATM machine that wasn't working. In any case if the transaction goes through, after how long can I get my money back?",pending_cash_withdrawal
+Why is my ATM withdrawal still pending?,pending_cash_withdrawal
+Is the cash withdrawal going to show?,pending_cash_withdrawal
+"Cash withdrawal has been pending, why is it so?",pending_cash_withdrawal
+My account shows up as pending after I received cash from the ATM earlier.  How can this be still pending? I've got the cash already.,pending_cash_withdrawal
+How long does it take to verify a cash withdraw?,pending_cash_withdrawal
+"The transaction for the cash I pulled out of the ATM earlier is pending in the app, but how if I already have the cash?",pending_cash_withdrawal
+Why has my withdrawal not posted?,pending_cash_withdrawal
+"When I used one of the ATMs in the city centre today, I tried to take out some money, but for whatever reason, the machine declined my card. Just checked it out in my account and that amount is still showing as pending! Is there any way that you can cancel this transaction, because I did not receive any money whatsoever from the ATM",pending_cash_withdrawal
+Why is the cash withdraw I made shown as pending?,pending_cash_withdrawal
+"Hello. I looked at my account and see that a transaction I tried to do is pending, but I did not complete that transaction. When I was at the ATM, the machine declined my card. Can you make sure that transaction does not go through because I definitely did not receive the money.",pending_cash_withdrawal
+Should my cash withdrawal still be pending?,pending_cash_withdrawal
+"Hey, I tried to withdraw some cash earlier and it's saying it's pending? Will I be charged for this?",pending_cash_withdrawal
+There should be a cash withdrawal that I haven't seen yet.,pending_cash_withdrawal
+Why is the app showing a still pending message on a withdraw that has already been done?,pending_cash_withdrawal
+Why is my cash withdrawal still pending?,pending_cash_withdrawal
+"If my cash withdrawal is still not showing, is something wrong?",pending_cash_withdrawal
+I noticed on my online statement that an ATM withdrawal I made early is still pending.  Is this accurate?,pending_cash_withdrawal
+I made a cash withdrawal at an ATM but it still says pending in my account.,pending_cash_withdrawal
+I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money!,pending_cash_withdrawal
+Why hasn't my withdrawal shown on my statement?,pending_cash_withdrawal
+I have withdrawn cash from the ATM but it is showing in my account as a pending transation. Why is this?,pending_cash_withdrawal
+I made a cash withdrawal earlier and it's showing as pending.  What does that mean?,pending_cash_withdrawal
+I tried to withdraw cash at an ATM in the city center but my card was declined. The transaction is still showing up as pending - please cancel it!,pending_cash_withdrawal
+How long does it take for a cash withdrawal to show?,pending_cash_withdrawal
+"I tried to access money earlier but the machine seems not to be working. After looking, the transaction actually shows to still being process. Can you find out what is going on here? I don't want to be charged for some money I never got.",pending_cash_withdrawal
+Why is my cash withdrawal pending?,pending_cash_withdrawal
+I withdrew cash but it still shows as pending?,pending_cash_withdrawal
+"Hi there, earlier today I tried to take money out of an ATM machine, and something wasn't working.  I didn't actually receive the money, but I just checked and it says that the transaction is still pending.  Can you tell me what's going on here? Am I still being charged for the withdrawal even though I didn't end up getting any money?",pending_cash_withdrawal
+I got some cash in the ATM but its still pending,pending_cash_withdrawal
+"So much time has gone by, the pending status shouldn't still be there shouldn't it?",pending_cash_withdrawal
+Do you know when the withdrawal will show?,pending_cash_withdrawal
+How long will my cash withdrawal take,pending_cash_withdrawal
+Why do I still have a pending cash withdrawal?,pending_cash_withdrawal
+Can it specifically be delivered on a certain date?,card_delivery_estimate
+I need to get my card quickly,card_delivery_estimate
+When can I expect my card? I live in the US.,card_delivery_estimate
+Help! When will the card arrive at my home?,card_delivery_estimate
+Can I get my card fast tracked?,card_delivery_estimate
+How long is the wait for my card?,card_delivery_estimate
+i need to expedite my card,card_delivery_estimate
+When should I expect to receive my card?,card_delivery_estimate
+How long until my card will get here?,card_delivery_estimate
+How long is the delivery time to the US?,card_delivery_estimate
+Can I have it delivered on a specific date?,card_delivery_estimate
+"i am express delivering my card to the us, how long will that take",card_delivery_estimate
+I need my card soon.,card_delivery_estimate
+Can I choose when my card is delivered?,card_delivery_estimate
+When will my card be here?,card_delivery_estimate
+How long will delivery to the US take?,card_delivery_estimate
+When can I expect delivery?,card_delivery_estimate
+Can I specify a day for my card to be delivered?,card_delivery_estimate
+I'm worried my card might be lost in the mail? How long does it usually take to arrive?,card_delivery_estimate
+When will my card be delivered?,card_delivery_estimate
+can the delivery be specific to my needs?,card_delivery_estimate
+how long does delivery take?,card_delivery_estimate
+"To deliver to the US, how long will it take?",card_delivery_estimate
+How quickly can you get me my card?,card_delivery_estimate
+can I choose delivery times to suite me?,card_delivery_estimate
+Can I choose the day it's delivered?,card_delivery_estimate
+How long will this take to get to me?,card_delivery_estimate
+When shipped to the US how long is delivery time?,card_delivery_estimate
+"Give me my card, I need it now!",card_delivery_estimate
+I'd like to have it delivered on Saturday.  Is that possible?,card_delivery_estimate
+How long will I have to wait for my new card?,card_delivery_estimate
+How long is a delivery to the US?,card_delivery_estimate
+What is the delivery time to the US?,card_delivery_estimate
+How long does it take for deliver to the US?,card_delivery_estimate
+If I order a card when does it arrive?,card_delivery_estimate
+When can I expect my card?,card_delivery_estimate
+How long is delivery to the US?,card_delivery_estimate
+What is your shipping policies for cards?,card_delivery_estimate
+I ordered my card and it isn't here yet. I need it ASAP. When can I expect to get it?,card_delivery_estimate
+how long should I expect to wait for my card to arrive?,card_delivery_estimate
+I can't use my card because it is not working.,card_not_working
+I can't seem to be able to use my card,card_not_working
+"My card isn't working at all, I need assistance. It's really frustrating.",card_not_working
+Can you tell me what the problem with my card is? It was declined at a restaurant today.,card_not_working
+How do I fix a broken card?,card_not_working
+My card was working but now it doesn't.,card_not_working
+I cannot seem to use my card.,card_not_working
+I think my card is broke it's not working anymore,card_not_working
+I have not been able to use this card.,card_not_working
+What do I do if i accidentally broke my card?,card_not_working
+How come my card doesn't work anymore?,card_not_working
+"For a week now, I have tried to use my card and it is still not working.",card_not_working
+My actual card isn't functioning.,card_not_working
+I can't get the card itself to work.,card_not_working
+What should I do if my card doesn't work?,card_not_working
+Why won't my card work.,card_not_working
+My card will not work,card_not_working
+My card is not working.,card_not_working
+HOW LONG THE CARD VALIDITY,card_not_working
+My card seems to not be working at all.,card_not_working
+My card gets rejected when I try to use it,card_not_working
+I am unable to use my card for some reason.,card_not_working
+Why can't I use my card?,card_not_working
+I think my card is broke?,card_not_working
+What do I do?  My card is broken.,card_not_working
+"My Netflix subscription says that there is an issue with my card information, but I thought everything was fine. Why would it be declined?",card_not_working
+My card was declined at a restaurant today and I don't know what the problem is.,card_not_working
+WHAT IS THE REASON FOR THAT,card_not_working
+My card is not working when I try to use it.,card_not_working
+How do I check security settings on my card?,card_not_working
+My card isn't working at all. What happened?,card_not_working
+Today I was out eating and my card was declined. Why's that?,card_not_working
+What are ways to test why my card might not be working?,card_not_working
+Currently my card is broken.,card_not_working
+My card won't work at all for anything.,card_not_working
+How do I fix my card if it is broken?,card_not_working
+Why doesn't my card work for any transactions?,card_not_working
+"I tried using my card, but it doesn't work.",card_not_working
+My card hasn't been working for even small transactions today.,card_not_working
+What do I do if the machine rejects my card?,card_not_working
+Has there been any activity on my card today?,lost_or_stolen_card
+I lost my wallet and all my cards were in it.,lost_or_stolen_card
+I'm panicking!  I lost my card!  Help!,lost_or_stolen_card
+I need to report a stolen card,lost_or_stolen_card
+How do I replace a stolen card?,lost_or_stolen_card
+Can you provide information for freezing my card immediately?,lost_or_stolen_card
+What's the phone number to freeze a card?,lost_or_stolen_card
+I can't find my card! Can you help?,lost_or_stolen_card
+"Hi, I am on vacation in Spain and someone stole my bag with my phone and wallet with cards and everything. Can you block it ASAP and then I want to order a new one also ASAP.",lost_or_stolen_card
+Help! I lost my card!,lost_or_stolen_card
+My card is missing.  Please help.,lost_or_stolen_card
+I think that my card has been stolen!,lost_or_stolen_card
+My card was stolen,lost_or_stolen_card
+A fee shouldn't apply to me if my card was stolen.,lost_or_stolen_card
+"My card has been stolen. I reported it with the police, but I need to report it with you as well.",lost_or_stolen_card
+Can you tell me the status of my new card?,lost_or_stolen_card
+My card has been stolen what do I do?,lost_or_stolen_card
+"I can't find my card, it is lost.",lost_or_stolen_card
+My card is lost!  Please help me!,lost_or_stolen_card
+I believe that my card has been stolen!,lost_or_stolen_card
+What should I do if I think my card was stolen?,lost_or_stolen_card
+Can you send me a new card and block my current one. I'm in Spain and my wallet was stolen.,lost_or_stolen_card
+"I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?",lost_or_stolen_card
+My bag got stolen with all my cards. Can you please cancel my card and send a new one?,lost_or_stolen_card
+I think my card is stolen!,lost_or_stolen_card
+"Help!  I fear that my card was stolen,",lost_or_stolen_card
+Someone stole my card!,lost_or_stolen_card
+Are you able to guide me to my card's location?,lost_or_stolen_card
+How can I report that my card was stolen? I made a police report first.,lost_or_stolen_card
+My card is missing!  Help!,lost_or_stolen_card
+"My wallet was stolen, along with my cards. How do I put a freeze on my cards and order a new one?",lost_or_stolen_card
+Could you please freeze my card immediately?,lost_or_stolen_card
+"i need help, i lost my card",lost_or_stolen_card
+What can I do if I lost my card?,lost_or_stolen_card
+I think that the card is stolen.  What are my next steps?,lost_or_stolen_card
+What do I do if my card is stolen?,lost_or_stolen_card
+My card is stolen.  Help!,lost_or_stolen_card
+I lost track of my card,lost_or_stolen_card
+Report stolen card,lost_or_stolen_card
+Help!  My card is stolen.,lost_or_stolen_card
+Cancel a transaction,cancel_transfer
+Am I able to cancel a transfer I just made,cancel_transfer
+"I needed to make a payment on my account, but I typed in the incorrect number.  The app won't allow me to cancel this transaction.  I need it cancelled ASAP!!",cancel_transfer
+I made a mistake this morning when I did a transfer. How do I reverse it?,cancel_transfer
+Can I cancel a transaction?,cancel_transfer
+"Hi, I sent a payment to the wrong account number - can you cancel it as soon as possible?",cancel_transfer
+How do I revert a transaction?,cancel_transfer
+I just realized I made the wrong transaction yesterday. Would  you please make it correct?I need it by tomorrow Please.,cancel_transfer
+How do i cancel a charge?,cancel_transfer
+"I didn't want to make a transaction, I want to revert it",cancel_transfer
+Is there a way to undo a transaction?,cancel_transfer
+"I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?",cancel_transfer
+I would like help to revert a transaction I did this morning,cancel_transfer
+Please help revert my transaction from this morning.,cancel_transfer
+Is there any way to cancel my transfer,cancel_transfer
+I messed up a transfer and need to reverse it.,cancel_transfer
+"Please cancel my most recent transfer, it was a mistake. This is an emergency. It needs to be canceled before it goes through.",cancel_transfer
+I made a mistake and performed a transaction on the wrong account!,cancel_transfer
+I want to revert a transaction I did this morning,cancel_transfer
+I need to change a transfer.,cancel_transfer
+How do I cancel a transaction?,cancel_transfer
+I need to cancel a transaction please!,cancel_transfer
+I want to revert a transaction I did,cancel_transfer
+"Could I please cancel my transfer, I paid it into the wrong account. I need to pay it into the right account by tomorrow.",cancel_transfer
+I need a transfer cancelled.,cancel_transfer
+I did a transaction this morning and now I want to cancel it.,cancel_transfer
+A transfer has to be cancelled.,cancel_transfer
+Is it possible to cancel a transaction?,cancel_transfer
+I messed up and made a transaction using the wrong account.,cancel_transfer
+One of my transactions needs to be canceled.,cancel_transfer
+I need to stop a transaction that I made.,cancel_transfer
+I need to cancel a transfer I made.,cancel_transfer
+"My transfer was wrong, are you able to stop it before it goes through please?",cancel_transfer
+I used the wrong account.,cancel_transfer
+I've made a horrible mistake!  I transferred money to the wrong account by accident!  I entered one of the digits wrong.  I need this cancelled immediately please.,cancel_transfer
+What are the steps I need to take to cancel a transaction?,cancel_transfer
+I would like to cancel a transfer...is this possible?,cancel_transfer
+I want to cancel the transaction I made earlier,cancel_transfer
+I submitted a transaction but it was for the incorrect account.,cancel_transfer
+"I stupidly initiated a rent payment from the wrong account yesterday. It can't be paid from that account, but it really needs to get paid on time. Am I able to move the payment to the right account?",cancel_transfer
+Why did I only receive a partial amount of what I tried to withdraw?,wrong_amount_of_cash_received
+my atm transaction was wrong,wrong_amount_of_cash_received
+why did i only get 20.00,wrong_amount_of_cash_received
+Why is my cash request and the amount I received different?,wrong_amount_of_cash_received
+"I tried to withdraw $100, all it gave me was $20.",wrong_amount_of_cash_received
+The ATM didn't give me enough money.,wrong_amount_of_cash_received
+When I went to withdraw cash today the ATM gave me the wrong amount of cash. The app is showing a larger amount.,wrong_amount_of_cash_received
+I didn't get the all the cash i wanted from the atm,wrong_amount_of_cash_received
+I received $20 but I entered $100,wrong_amount_of_cash_received
+"Hi, I used an ATM today to take money out of my account, but the amount it gave me is not the amount I requested. What should I do?",wrong_amount_of_cash_received
+Did a WD earlier at an ATM.  The amount showing in the App is more than I got though.,wrong_amount_of_cash_received
+I didn't get the correct amount of money from the ATM machine,wrong_amount_of_cash_received
+Some cash was missing at ATM.,wrong_amount_of_cash_received
+I didn't get all the cash I asked for,wrong_amount_of_cash_received
+I tried to withdraw $100 but only got $20. What happened?,wrong_amount_of_cash_received
+how come when i asked for 100 it only gave me 20.00 in the app,wrong_amount_of_cash_received
+Asked for $100 but only got $20. Why would this happen?,wrong_amount_of_cash_received
+I wanted to withdraw $100 from the ATM but I only got $20,wrong_amount_of_cash_received
+I got less money than I asked for.,wrong_amount_of_cash_received
+"Hi, Please help me to request cash back. As i have been withdrawn money from ATM, but i got wrong amount. in Application its showing the amount i have been charged through.",wrong_amount_of_cash_received
+The cash I wanted wasn't there.,wrong_amount_of_cash_received
+I requested a higher amount for my cash withdrawal,wrong_amount_of_cash_received
+The amount of cash I received did not match the amount I requested,wrong_amount_of_cash_received
+The ATM didn't give me the full requested amount,wrong_amount_of_cash_received
+The amount of cash I received was not the full amount,wrong_amount_of_cash_received
+How can I request cash back? The ATM just gave me the wrong amount that I've been charged though...,wrong_amount_of_cash_received
+I was only given $20 after trying to withdraw $100,wrong_amount_of_cash_received
+I received less cash than the amount I specified in the ATM.,wrong_amount_of_cash_received
+I went tot the ATM earlier today and didn't realize this till now but I did not get all the money I requested.  I believe my account was charged for 100 but I only got 80.  Is there any way we can solve this problem?,wrong_amount_of_cash_received
+I got less cash than what I specified at the ATM.,wrong_amount_of_cash_received
+Why did I not get the amount of money I requested?,wrong_amount_of_cash_received
+I'm at the ATM right now and it only allowed me to withdraw 10 pounds instead of my requested 30. What's going on? How can I fix this?,wrong_amount_of_cash_received
+I got $20 when I should've gotten $100,wrong_amount_of_cash_received
+How can I request cash back? The ATM gave me the wrong amount that I've been charged though...,wrong_amount_of_cash_received
+I didn't receive the amount of cash I requested for the ATM.,wrong_amount_of_cash_received
+my cash balance less than what I thought,wrong_amount_of_cash_received
+It didn't give me my cash,wrong_amount_of_cash_received
+It kept my cash,wrong_amount_of_cash_received
+I only got $20 of the $100 that I attempted to withdraw.,wrong_amount_of_cash_received
+"Hi, I draw out some money from the ATM today. The ATM has given me wrong amount and the application is displaying more amount than i withdraw.",wrong_amount_of_cash_received
+There was a fee charged when I paid with my card.,card_payment_fee_charged
+I received a fee I should not have.,card_payment_fee_charged
+Why am I being a charged for using my card?,card_payment_fee_charged
+Tell me why there is a fee for a card payment.,card_payment_fee_charged
+I don't understand why I'm being charged for using my card.,card_payment_fee_charged
+I paid with my card so so why was I charged a transaction fee?,card_payment_fee_charged
+"I shouldn't have been charged but I see a fee, why?",card_payment_fee_charged
+"i made a payment with my card and was charged a fee, why would you do that",card_payment_fee_charged
+A fee came along with me paying with card,card_payment_fee_charged
+I had to pay a fee when buying items with my card.,card_payment_fee_charged
+Why is there a fee when I thought there would be no fees?,card_payment_fee_charged
+Why are there fees for using a card?,card_payment_fee_charged
+I had to pay money for paying with my card.,card_payment_fee_charged
+"I'm going on holiday to France for 6 weeks with my family and the cat, Fluffy.  I just purchased €10,000 from a currency exchange to ensure we don't run short but there appears to be a fee.  What is this for?",card_payment_fee_charged
+What are the reasons to be charged a fee on card payments?,card_payment_fee_charged
+I paid with card and was charged a fee that shouldn't be there!,card_payment_fee_charged
+Why was I charged an extra fee when paying with card?,card_payment_fee_charged
+I noticed a new fee on my account. I didn't know there were fees for these payments. What is the policy?,card_payment_fee_charged
+I don't understand why I was charged an additional fee for this service. Can you clarify?,card_payment_fee_charged
+Why is there a fee for using my card?,card_payment_fee_charged
+Why was my transaction charged an extra fee when paying with my card?,card_payment_fee_charged
+"Where can I find out the fee structure for my account? I have been charged fees for some transactions, but not for other ones. I can't find a pattern in these fees.",card_payment_fee_charged
+"On a card payment, why is there a fee?",card_payment_fee_charged
+Why did I get charged a fee for my card payment?,card_payment_fee_charged
+Why are you charging me fees for using my card?,card_payment_fee_charged
+What is the extra fee that showed up on my card?,card_payment_fee_charged
+Why was I charged a fee for using my card,card_payment_fee_charged
+Let me know when I get charged extra for payments. I saw on the app a fee I wasn't forewarned about.,card_payment_fee_charged
+I was charged a fee for using my card. Can I check that in any way? It seems like there are occasions that I am charge for fees. Can you elaborate this?,card_payment_fee_charged
+I got charged a service fee on my account. Can it be waived since I didn't know about it before?,card_payment_fee_charged
+I think a fee was applied for paying with a card.,card_payment_fee_charged
+I'm being charged for using my card!,card_payment_fee_charged
+I bought something with my card and I was charged a fee,card_payment_fee_charged
+I received an extra charge for using the card. Why?,card_payment_fee_charged
+Can you explain why my payment was charged a fee?,card_payment_fee_charged
+Is there a fee for paying by card?,card_payment_fee_charged
+Who charged me a fee for paying by card?,card_payment_fee_charged
+I have a fee showing from last time I used my card.,card_payment_fee_charged
+Why is this fee being charged to me after using my card?,card_payment_fee_charged
+"Why wasn't it obvious that you charge for payments? If you put the fees in an easy to read format, this could have been avoided.",card_payment_fee_charged
+I am worried that too much time has gone by for a transfer to be completed.,transfer_not_received_by_recipient
+What is the time frame that it usually takes for a transfer to come through? I have a friend needing it immediately but it has yet to come through.,transfer_not_received_by_recipient
+My money transaction can't be seen by the person I sent it to,transfer_not_received_by_recipient
+"How long does it typically take a transfer to go through?  I sent some money to a friend earlier today, and she really needs it.  It still is a pending transfer, even though I sent it a few hours ago.",transfer_not_received_by_recipient
+"I have done a transfer within the country the day before yesterday, but it's still not there yet. Can you please check what's going on with that, the account number definitely is the right one, I've checked that already.",transfer_not_received_by_recipient
+"I have done a transfer within the country the day before yesterday, but it's still not there yet. Can you please check what's going on with that, the account number is the right one, I've checked that several times already.",transfer_not_received_by_recipient
+My money transaction hasn't arrived.,transfer_not_received_by_recipient
+I sent money to a person and they haven't received the payment yet.,transfer_not_received_by_recipient
+I do not know where the transaction is.,transfer_not_received_by_recipient
+I transferred money but the recipient does not see the funds in their account?,transfer_not_received_by_recipient
+why hasn't a transaction to a friend cleared yet?,transfer_not_received_by_recipient
+The app isn't showing my transactions,transfer_not_received_by_recipient
+Why isn't the recipient seeing the transaction? I just sent the money.,transfer_not_received_by_recipient
+I transferred money and it didn't get there.,transfer_not_received_by_recipient
+Is there a reason why a recipient might not see my money transaction,transfer_not_received_by_recipient
+I don't see the transaction I made to a friend on my account.,transfer_not_received_by_recipient
+why has a transaction to a friend been delayed?,transfer_not_received_by_recipient
+"A transaction I did to my friend hasn't arrived yet, why?",transfer_not_received_by_recipient
+Where is my last money transaction,transfer_not_received_by_recipient
+I am having an issue with an in country transfer I did a few days ago. It has yet to appear in my account. I have checked to be sure that all account information is correct multiple times. What is taking the transfer so long?,transfer_not_received_by_recipient
+I made a transfer the day before yesterday within this country. It is still not showing up at all. I have double-checked and the account number is certainly right. I've actually type this multiple times. can you look into what is going on here?,transfer_not_received_by_recipient
+How much time do transfers typically take? I sent money to a friend who needs it urgently. It's been hours and has not gone through.,transfer_not_received_by_recipient
+A transaction to a friend still hasn't shown up.,transfer_not_received_by_recipient
+I sent money and the recipient has not received their money after two weeks.,transfer_not_received_by_recipient
+How long will it take for my transfer to arrive?,transfer_not_received_by_recipient
+Why did the funds not transfer to another recipient?,transfer_not_received_by_recipient
+I sent a payment but it isn't showing up in the app,transfer_not_received_by_recipient
+I tried to transfer some money and it hasn't done it yet - what's going on?,transfer_not_received_by_recipient
+I made a transfer and they haven't received the money I sent them.,transfer_not_received_by_recipient
+"how long does it take to transfer money, my retailer is waiting",transfer_not_received_by_recipient
+"I sent money to someone but they haven't gotten it, what's going on?",transfer_not_received_by_recipient
+"How long does it take for transfers to process?  I sent funds to a friend, and she says that she has not yet received anything.",transfer_not_received_by_recipient
+Why hasn't the transaction I did to my friend arrive yet?,transfer_not_received_by_recipient
+I sent money about 5 days ago and the recipient has not received the money yet.,transfer_not_received_by_recipient
+I am just waiting on the completion of the transaction.,transfer_not_received_by_recipient
+My cash transaction isn't showing on my account,transfer_not_received_by_recipient
+Why hasn't my transaction arrived?,transfer_not_received_by_recipient
+When are you going to transfer the money?,transfer_not_received_by_recipient
+"I have moved to a new house and set up a rent payment to my landlord, it was supposed to be in her account a few days ago but it hasn't arrived.  I definitely sent it to the right place, can you confirm where the money is?",transfer_not_received_by_recipient
+I need to check status as my friend hasn't got money I sent.,transfer_not_received_by_recipient
+"I would like to order a virtual card, where can I get one?",getting_virtual_card
+"I need to order a new virtual card, how do I do that?",getting_virtual_card
+How can I sign up for a virtual card?,getting_virtual_card
+I haven't received my virtual card yet!!,getting_virtual_card
+Can you give me a virtual card?,getting_virtual_card
+I want to get my hands on one of those virtual cards!,getting_virtual_card
+i need a virtual card,getting_virtual_card
+How do I get to the virtual cards?,getting_virtual_card
+want to know how to get virtual card,getting_virtual_card
+Where is my virtual card?,getting_virtual_card
+Where are the virtual cards?,getting_virtual_card
+Is it possible to order a virtual card?,getting_virtual_card
+how to i go about getting my virtual card,getting_virtual_card
+I don't have a virtual card - how do I get one?,getting_virtual_card
+How to receive virtual card?,getting_virtual_card
+Why haven't I gotten a virtual card yet?,getting_virtual_card
+Where do I order a virtual card?,getting_virtual_card
+Can i have a virtual card?,getting_virtual_card
+Please explain to me the process of getting a virtual card.,getting_virtual_card
+my virtual card has not came yet!,getting_virtual_card
+Which part of the app do I order virtual cards from?,getting_virtual_card
+Where do I have access to a virtual card?,getting_virtual_card
+How to order a virtual card,getting_virtual_card
+Where do I get a virtual card?,getting_virtual_card
+Why haven't I been given a virtual card yet?,getting_virtual_card
+Can you help me find the virtual card?,getting_virtual_card
+How do I go about getting hold of a virtual card?,getting_virtual_card
+Where's my virtual card,getting_virtual_card
+How can I go about ordering a virtual card?,getting_virtual_card
+Where can i find the virtual card?,getting_virtual_card
+"I'd rather not use my physical card, how can I get a virtual card?",getting_virtual_card
+What do I have to do to get my virtual card?,getting_virtual_card
+can i use my app to get a virtual card,getting_virtual_card
+How can I obtain a virtual card?,getting_virtual_card
+I'm interested in getting a virtual card.  How do I get one?,getting_virtual_card
+What is the way to go about getting a virtual card?,getting_virtual_card
+How can I receive a virtual card?,getting_virtual_card
+When will my virtual card arrive?,getting_virtual_card
+How do I get my virtual card?,getting_virtual_card
+how to get virtual card,getting_virtual_card
+Please help me with my card.  It won't activate.,activate_my_card
+I tired but an unable to activate my card.,activate_my_card
+I want to start using my card.,activate_my_card
+How do I verify my new card?,activate_my_card
+I tried activating my plug-in and it didn't piece of work,activate_my_card
+How do i activate my card,activate_my_card
+Can someone assist me with activating my card?,activate_my_card
+My card needs to be activated.,activate_my_card
+I was unable to activate my card.,activate_my_card
+Is my card ready for use or does it need activated and if so how?,activate_my_card
+Help me activate my new card.,activate_my_card
+Do I need a photo ID to activate a my new card?,activate_my_card
+"I just got my new card, how do I activate it?",activate_my_card
+Can I have my card activated?,activate_my_card
+i cant seem to activate card,activate_my_card
+It won't let me activate my card.,activate_my_card
+I tried activation my card and it didn't employment,activate_my_card
+I want to use my card. How do I activate it?,activate_my_card
+Activate my card,activate_my_card
+Can I get some help activating my new card?,activate_my_card
+Is my card activated?,activate_my_card
+I would like to activate my card.,activate_my_card
+Can I call to get my card activated?,activate_my_card
+How can I activate my new card? I didn't recieve any information with it about how to do so.,activate_my_card
+How do I activate my new card I just got?,activate_my_card
+will you be able to activate my card,activate_my_card
+Can I get some help to get me card activated?,activate_my_card
+I want to activate my new card.,activate_my_card
+What would II do if I wanted to activate my new card,activate_my_card
+What needs to be done to activate and use a card?,activate_my_card
+Can I activate my card?,activate_my_card
+I need assistance activating my card?,activate_my_card
+I need assistance with activating my new card.,activate_my_card
+How do I get my card active?,activate_my_card
+What do I have to do to activate my card?,activate_my_card
+What is needed to activate my card?,activate_my_card
+How can my new card be activated?,activate_my_card
+Can you activate my card pls,activate_my_card
+How do I turn on my new card?,activate_my_card
+Please assist me in activating the card.,activate_my_card

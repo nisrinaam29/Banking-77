@@ -1,0 +1,17 @@
+# Core Packages
+numpy
+pandas
+
+# Deep Learning Frameworks
+torch
+transformers
+tensorflow
+  # Only if you actually need TF (can be removed if using only PyTorch)
+
+# Visualization
+matplotlib
+seaborn
+
+# NLP/Utilities
+scikit-learn
+tqdm
